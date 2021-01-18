@@ -36,20 +36,20 @@ Apart from building software, I also have started maintaining a blog you can fin
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/kaushiknishchay/kaushiknishchay">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushiknishchay&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=0c4bc9&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushiknishchay&hide=html&title_color=1d1f21&text_color=444444&icon_color=444444&bg_color=fdfdfd" />
 </a>
 
 <a href="https://github.com/kaushiknishchay/kaushiknishchay">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaushiknishchay&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=0c4bc9&bg_color=1d1f21" alt="Nishchay's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaushiknishchay&show_icons=true&line_height=27&count_private=true&title_color=1d1f21&text_color=444444&icon_color=0c4bc9&bg_color=fdfdfd" alt="Nishchay's GitHub Stats" />
 </a>
 
 <a href="https://github.com/kaushiknishchay/kaushiknishchay.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kaushiknishchay&repo=kaushiknishchay.github.io&title_color=ffffff&text_color=c9cacc&icon_color=0c4bc9&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kaushiknishchay&repo=kaushiknishchay.github.io&title_color=1d1f21&text_color=444444&icon_color=0c4bc9&bg_color=fdfdfd" />
 </a>
 
 
 <a href="https://github.com/kaushiknishchay/React-Native-Restaurant-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kaushiknishchay&repo=React-Native-Restaurant-App&title_color=ffffff&text_color=c9cacc&icon_color=0c4bc9&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kaushiknishchay&repo=React-Native-Restaurant-App&title_color=1d1f21&text_color=444444&icon_color=0c4bc9&bg_color=fdfdfd" />
 </a>   
 
 <!-- links to social media icons -->
