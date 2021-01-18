@@ -36,7 +36,7 @@ Apart from building software, I also have started maintaining a blog you can fin
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/kaushiknishchay/kaushiknishchay">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushiknishchay&hide=html&title_color=1d1f21&text_color=444444&icon_color=444444&bg_color=fdfdfd" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&langs_count=10&username=kaushiknishchay&hide=html&title_color=1d1f21&text_color=444444&icon_color=444444&bg_color=fdfdfd" />
 </a>
 
 <a href="https://github.com/kaushiknishchay/kaushiknishchay">
