@@ -56,14 +56,14 @@ Apart from building software, I also have started maintaining a blog you can fin
 
 <!-- icons with padding -->
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon)
+[1.1]: https://i.imgur.com/OUflQwU.png (twitter icon)
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon)
 
 <!-- icons without padding -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon)
+[1.2]: https://i.imgur.com/OUflQwU.png (twitter icon)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon)
+[3.2]: https://i.imgur.com/FkFgYPT.png (LinkedIn icon)
 
 
 <!-- links to your social media accounts -->
