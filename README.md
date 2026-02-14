@@ -21,7 +21,7 @@ My name is Nishchay Kaushik and I'm a software engineer. You can find me on [![T
 
 ## &#x270d; Blog & Writing
 
-Apart from building software, I also have started maintaining a blog you can find my articles on [Medium](https://medium.com/@kaushik.tech).
+Apart from building software, I also have started maintaining a blog you can find my articles on [Blog](https://blog.nkaushik.in).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -36,21 +36,12 @@ Apart from building software, I also have started maintaining a blog you can fin
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/kaushiknishchay/kaushiknishchay">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&langs_count=10&username=kaushiknishchay&hide=html&title_color=1d1f21&text_color=444444&icon_color=444444&bg_color=fdfdfd" />
+  <img align="center" src="https://github.com/kaushiknishchay/kaushiknishchay.github.io/raw/master/profile/top-langs.svg" />
 </a>
 
 <a href="https://github.com/kaushiknishchay/kaushiknishchay">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaushiknishchay&show_icons=true&line_height=27&count_private=true&title_color=1d1f21&text_color=444444&icon_color=0c4bc9&bg_color=fdfdfd" alt="Nishchay's GitHub Stats" />
+  <img align="center" src="https://github.com/kaushiknishchay/kaushiknishchay.github.io/raw/master/profile/stats.svg" alt="Nishchay's GitHub Stats" />
 </a>
-
-<a href="https://github.com/kaushiknishchay/kaushiknishchay.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kaushiknishchay&repo=kaushiknishchay.github.io&title_color=1d1f21&text_color=444444&icon_color=0c4bc9&bg_color=fdfdfd" />
-</a>
-
-
-<a href="https://github.com/kaushiknishchay/React-Native-Restaurant-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kaushiknishchay&repo=React-Native-Restaurant-App&title_color=1d1f21&text_color=444444&icon_color=0c4bc9&bg_color=fdfdfd" />
-</a>   
 
 <!-- links to social media icons -->
 
