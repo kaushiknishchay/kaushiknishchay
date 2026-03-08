@@ -21,7 +21,7 @@ My name is Nishchay Kaushik and I'm a software engineer. You can find me on [![T
 
 ## &#x270d; Blog & Writing
 
-Apart from building software, I also have started maintaining a blog you can find my articles on [Blog](https://blog.nkaushik.in).
+Apart from building software, I also have started maintaining a blog you can find my articles on [Blog](https://nkaushik.in).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
